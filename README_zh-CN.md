@@ -4,7 +4,7 @@
 
 <h4 align="center">一个能快速帮助你把Excel数据转换成MySQL的SQL语句的工具</h4>
 
-#### [中文文档](https://github.com/ToWeLong/xlsx2mysql/blob/master/README_zh-CN.md)
+#### [中文文档](https://github.com/ToWeLong/xlsx2mysql/blob/main/README_zh-CN.md)
 
 ## 起源
 
